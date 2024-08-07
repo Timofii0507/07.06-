@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading;
 
-namespace system2
+namespace _07._06
 {
     class Program
     {
