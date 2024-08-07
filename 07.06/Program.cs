@@ -22,7 +22,7 @@ namespace _07._06
         Thread numberThread = new Thread(() => PrintNumbers(start, end));
 
 
-        numberThread.Start();
+        numberThread.Start(); 
 
 
         numberThread.Join();
